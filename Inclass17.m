@@ -3,6 +3,13 @@
 %pixel values in the original images and the second using the fourier
 %transform of the images. In both cases, display your results. 
 
+%GB comments
+1. 100
+2. 100
+overall 100
+
+
+
 file1 = 'img1.tif';
 file2 = 'img2.tif';
 
